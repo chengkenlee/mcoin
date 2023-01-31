@@ -1,4 +1,4 @@
-# gatebitcoin
+# mcoin
 
 ## Support
 
